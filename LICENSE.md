@@ -1,9 +1,4 @@
-# mSerialize-python
-
-## Notes
-This is a simple serialization and deserialization library, it is not designed for use on large data objects. 
-
-## The No Vibe Coders Open Source License
+# The No Vibe Coders Open Source License
 
 ```
 Copyright (C) 2025 William Welna (wwelna@occultusterra.com)
